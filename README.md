@@ -29,7 +29,7 @@
 ## 🤝 Connect with me on:
 
 <p align="center">
-  <a href="www.linkedin.com/in/nicolae-peptea" target="blank">
+  <a href="https://www.linkedin.com/in/nicolae-peptea/" target="blank">
   	<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicolae-peptea" width="40" />
   </a>
   <a href="https://instagram.com/mihaibuga_" target="blank">
