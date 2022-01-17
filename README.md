@@ -97,7 +97,7 @@
 ![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=181717)
 
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=Flask&color=181717)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 
 ![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=430098)
 
