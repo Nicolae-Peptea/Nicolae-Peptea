@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page:grey_exclamation:</h1>
 
 <p align="center"> 
- <a href="https://github.com/Nicolae-Peptea alt="mukesh's github">
+ <a href="https://github.com/Nicolae-Peptea" alt="nicolae's github">
    <img src="https://img.shields.io/badge/-@Nicolae--Peptea-%23181717?style=flat-square&logo=github" />
  </a>
 </p>
