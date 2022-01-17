@@ -14,7 +14,9 @@
 - 
 	> I am a 29 years old new full-stack developer from Romania
 - 
-	> Currently a Codecool Student
+	> Currently a  <a href="https://github.com/Nicolae-Peptea" alt="codecool">
+   				Codecool Student
+ 			</a>
 - 
 	> Started coding in october 2020 (Python is my first love)
 -
