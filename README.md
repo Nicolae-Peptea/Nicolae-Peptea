@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub page:grey_exclamation:</h1>
 
 <p align="center"> 
- <a href="https://github.com/Nicolae-Peptea" alt="nicolae's github" target="_blank">
+ <a href="https://github.com/Nicolae-Peptea" alt="nicolae's github">
    <img src="https://img.shields.io/badge/-@Nicolae--Peptea-%23181717?style=flat-square&logo=github" />
  </a>
 </p>
@@ -29,11 +29,8 @@
 ## 🤝 Connect with me on:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolae-peptea/" target="blank">
+  <a href="https://www.linkedin.com/in/nicolae-peptea/">
   	<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicolae-peptea" width="40" />
-  </a>
-  <a href="https://instagram.com/mihaibuga_" target="blank">
-  	<img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="mihaibuga_" width="40" />
   </a>
 </p>
 
