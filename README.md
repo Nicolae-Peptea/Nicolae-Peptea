@@ -103,7 +103,7 @@
 
 ## 📈 My GitHub Stats 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mihaibuga&custom_title=My%20Github%20Stats&count_private=true&show_icons=true&theme=github_dark" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nicolae-Peptea&custom_title=My%20Github%20Stats&count_private=true&show_icons=true&theme=github_dark" alt="abhisheknaiidu" />
 
 ----
 
