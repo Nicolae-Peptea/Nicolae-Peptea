@@ -14,7 +14,7 @@
 - 
 	> I am a 29 years old new full-stack developer from Romania
 - 
-	> Currently a  <a href="https://github.com/Nicolae-Peptea" alt="codecool">
+	> Currently a  <a href="https://codecool.com/en/">
    				Codecool Student
  			</a>
 - 
