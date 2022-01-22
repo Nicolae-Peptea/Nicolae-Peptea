@@ -20,7 +20,7 @@
 - 
 	> Started coding in october 2020 (Python is my first love)
 -
-	> I have great interest in software architecture and writing maintainable and scalable code as much as I can
+	> I have great interest in software architecture and writing maintainable and scalable code
 - 
   > All rounded nerd fascinated by
    * programming languages
