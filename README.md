@@ -12,13 +12,13 @@
 
 ## 👤 About Me
 - 
-	> I am a 29 years old new full-stack developer from Romania
+	> I am a 29 years old full-stack developer from Romania
 - 
 	> Currently a  <a href="https://codecool.com/en/">
    				Codecool 
  			</a> Student
 - 
-	> Started coding in october 2020 (Python is my first love)
+	> Started coding in October 2020 (Python is my first love)
 -
 	> I have great interest in software architecture and writing maintainable and scalable code
 - 
