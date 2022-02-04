@@ -18,12 +18,12 @@
    				Codecool 
  			</a> Student
 - 
-	> Started coding in October 2020 (Python is my first love)
+	> Started coding in October 2020 (Python was my first love, but then I discovered Java Script and C#)
 -
-	> I have great interest in software architecture and writing maintainable and scalable code
+	> I have great interest in software architecture and writing clean, maintainable and scalable code
 - 
   > All rounded nerd fascinated by
-   * programming languages
+   * programming languages (Python, JS, TS, C#)
    * computer science history
    * philosophy
    * running and hiking
