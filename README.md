@@ -14,9 +14,7 @@
 - 
 	> I am a 29 years old full-stack developer from Romania
 - 
-	> Currently a  <a href="https://codecool.com/en/">
-   				Codecool 
- 			</a> Student
+	> Currently working at 888 holdings as a .NET Developer
 - 
 	> Started coding in October 2020 (Python was my first love, but then I discovered Java Script and C#)
 -
