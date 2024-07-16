@@ -12,7 +12,7 @@
 
 ## 👤 About Me
 - 
-	> I am a 29 years old full-stack developer from Romania
+	> I am a 31 years old full-stack developer from Romania
 - 
 	> Currently working at 888 holdings as a .NET Developer
 - 
