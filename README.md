@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my GitHub page:grey_exclamation:</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 
 <p align="center"> 
  <a href="https://github.com/Nicolae-Peptea" alt="nicolae's github">
