@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolae-peptea/">
-  	<img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nicolae-peptea" width="40" />
+  	<img align="center" src="[https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg]" alt="nicolae-peptea" width="40" />
   </a>
 </p>
 
