@@ -20,10 +20,10 @@
 -
 	> I have great interest in software architecture and writing clean, maintainable and scalable code
 - 
-  > All rounded nerd fascinated by
+  > Fascinated by
    * programming languages (Python, JS, TS, C#)
-   * computer science history
    * philosophy
+   * photography
    * running and hiking
 
 ## 🤝 Connect with me on:
